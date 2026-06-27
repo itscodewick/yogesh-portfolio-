@@ -1,0 +1,4 @@
+[build]
+base = "yoge-profolio"
+publish = "yoge-profolio"
+command = "" # leave blank if it's just static HTML
